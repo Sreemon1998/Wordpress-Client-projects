@@ -10,8 +10,7 @@ This repository showcases real-world WordPress business websites built for clien
 - SEO-friendly structure
 
 ## Live Demo
-🔗 https://your-client-site.com  
-*(Client-owned site; code not publicly shared)*
+🔗tamamfurniture.com
 
 ## Screenshots
 
